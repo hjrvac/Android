@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fenqu">
+        <item>全区</item>
+        <item>交友</item>
+        <item>二手交易</item>
+        <item>表白</item>
+        <item>询问</item>
+        <item>寻物和失物招领</item>
+        <item>活动信息</item>
+
+    </string-array>
+</resources>
